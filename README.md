@@ -1,8 +1,8 @@
-You can reach me with :
+You can reach me with :--
 [Linkedin](https://www.linkedin.com/in/youssef-khaled-906055187/).
 [Gmail](Yossef.k.y333@gmail.com).
 ***
-Top projects :
+Top projects :--
 [Canesee](https://github.com/canesee-project) graduation project - Android developer & Hardware engineer.
 ##### Done with : (TensorFlow, Android/kotlin, Raspberry Pi, Arduino).
 > Smart glasses and cane for the blind.

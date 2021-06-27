@@ -1,5 +1,5 @@
 ## **You can reach me with :**  
-![](![linkedin](https://user-images.githubusercontent.com/49316250/123556345-15bbfe80-d78b-11eb-9aaa-1d913b5c93cd.png)) [Linkedin](https://www.linkedin.com/in/youssef-khaled-906055187/).  
+[Linkedin](https://www.linkedin.com/in/youssef-khaled-906055187/).  
 <Yossef.k.y333@gmail.com>.
 ***
 ## **Top projects :**  

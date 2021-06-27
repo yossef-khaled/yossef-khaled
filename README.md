@@ -1,5 +1,5 @@
 **You can reach me with :**  
-[Linkedin](https://www.linkedin.com/in/youssef-khaled-906055187/).
+[Linkedin](https://www.linkedin.com/in/youssef-khaled-906055187/).  
 [Gmail](Yossef.k.y333@gmail.com).
 ***
 **Top projects :**  

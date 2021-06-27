@@ -1,6 +1,6 @@
 ## **You can reach me with :**  
 ![](linkedin.png) [Linkedin](https://www.linkedin.com/in/youssef-khaled-906055187/).  
-<Yossef.k.y333@gmail.com>.
+![](gmail.png) <Yossef.k.y333@gmail.com>.
 ***
 ## **Top projects :**  
 [Canesee](https://github.com/canesee-project) graduation project - Android developer & Hardware engineer.

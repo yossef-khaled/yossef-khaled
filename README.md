@@ -28,7 +28,7 @@ Stack: (NodeJS : Express, Express-router, Body-parser, Morgan & MongoDB).
 Stack: (NodeJS : Express).
 > A web App that uses OWM (Open Weather Map) API to post the temperature of any city you choose using its zip code or name.  
 
-**[`Arithmetic expressions evaluator`](https://github.com/yossef-khaled/Arithmetic-expressions-evaluator).** - *Autometa school project.*  
+**[`Arithmetic expressions evaluator`](https://github.com/yossef-khaled/Arithmetic-expressions-evaluator)** - *Autometa school project.*  
 Stack: (C#).
 > A parser for the arithmetic expressions using C# language.  
 ***  

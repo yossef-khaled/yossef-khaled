@@ -32,4 +32,4 @@ Stack: (NodeJS : Express).
 Stack: (C#).
 > A parser for the arithmetic expressions using C# language.  
 ***  
-![My github stats](https://github-readme-stats.vercel.app/api?username=yossef-khaled)
+![My github stats](https://github-readme-stats.vercel.app/api?username=yossef-khaled&show_icons=true&theme=radical)

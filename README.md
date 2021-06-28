@@ -6,7 +6,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yossef-khaled)](https://github.com/yossef-khaled/github-readme-stats)
 ***  
 # **Top projects**  
-**[Canesee](https://github.com/canesee-project)** - *graduation project - Android developer & Hardware engineer.*  
+`**[Canesee](https://github.com/canesee-project)**` - *graduation project - Android developer & Hardware engineer.*  
 Stack: (TensorFlow, Android/kotlin, Raspberry Pi, Arduino).
 > Smart glasses and cane for the blind.
 > Recoginses faces, texts, scenery, and emotions.

@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F70000&size=20&duration=5000&lines=Dunno+what+to+write.;But+this+thing+is+cool.;Oh%2C+I+am+a+software+engineer.)](https://git.io/typing-svg)
 
-![](me.ico) [My Portfolio Website](https://yossef-khaled.github.io/)
+![](me.png) [My Portfolio Website](https://yossef-khaled.github.io/)
 
 ![](linkedin.png) [Linkedin](https://www.linkedin.com/in/youssef-khaled-906055187/)  
 

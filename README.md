@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F70000&size=20&duration=5000&lines=Dunno+what+to+write.;But+this+thing+is+cool.;Oh%2C+I+am+a+software+engineer.)](https://git.io/typing-svg)
 
 ![](me.png) [My Portfolio Website](https://yossef-khaled.github.io/)
+
 ![](linkedin.png) [Linkedin](https://www.linkedin.com/in/youssef-khaled-906055187/)  
+
 ![](facebook.png) [Facebook](https://www.facebook.com/yossef.khalid.3)
+
 ![](gmail.png) <Yossef.k.y333@gmail.com>
 ***  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yossef-khaled&layout=compact)](https://github.com/yossef-khaled/github-readme-stats)

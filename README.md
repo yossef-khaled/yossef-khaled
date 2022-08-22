@@ -37,4 +37,6 @@ Stack: (NodeJS : Express).
 Stack: (C#).
 > A parser for the arithmetic expressions using C# language.  
 ***  
-![My github stats](https://github-readme-stats.vercel.app/api?username=yossef-khaled&show_icons=true&bg_color=#F56E15)
+![Yousef Khaled's github stats](https://github-readme-stats.vercel.app/api?username=yossef-khaled&show_icons=true&bg_color=#F56E15)
+
+![Yousef Khaled's contributions](https://github-readme-streak-stats.herokuapp.com/?user=yossef-khaled&show_icons=true&bg_color=#F56E15)

@@ -8,7 +8,7 @@
 
 ![](gmail.png) <Yossef.k.y333@gmail.com>
 ***  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yossef-khaled)](https://github.com/yossef-khaled/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yossef-khaled&layout=compact)](https://github.com/yossef-khaled/github-readme-stats)
 ![Yousef Khaled's github stats](https://github-readme-stats.vercel.app/api?username=yossef-khaled&show_icons=true&bg_color=#F56E15)
 ![Yousef Khaled's contributions](https://github-readme-streak-stats.herokuapp.com/?user=yossef-khaled&show_icons=true&bg_color=#F56E15)
 ![Yousef Khaled's contributions graph](https://activity-graph.herokuapp.com/graph?username=yossef-khaled&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true")
@@ -39,4 +39,3 @@ Stack: (NodeJS : Express).
 **[`Arithmetic expressions evaluator`](https://github.com/yossef-khaled/Arithmetic-expressions-evaluator)** - *Autometa school project.*  
 Stack: (C#).
 > A parser for the arithmetic expressions using C# language.  
-***  

@@ -12,7 +12,7 @@
 ***  
 ![Yousef Khaled's github stats](https://github-readme-stats.vercel.app/api?username=yossef-khaled&show_icons=true&bg_color=#F56E15)
 ![Yousef Khaled's contributions](https://github-readme-streak-stats.herokuapp.com/?user=yossef-khaled&show_icons=true&bg_color=#F56E15)
-![Yousef Khaled's contributions graph](https://activity-graph.herokuapp.com/graph?username=yossef-khaled&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165")
+![Yousef Khaled's contributions graph](https://activity-graph.herokuapp.com/graph?username=yossef-khaled&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true")
 
 # **Top projects**  
 **[`Canesee`](https://github.com/canesee-project)** - *graduation project - Android developer & Hardware engineer.*  

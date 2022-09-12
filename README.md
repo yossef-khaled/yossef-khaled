@@ -23,11 +23,11 @@ Stack: (TensorFlow, Android/kotlin, Raspberry Pi, Arduino).
 Stack: (React, Flask, PostgreSQL).
 > Online platform for remotely teaching and reciting the Quran.  
 
-**[`Rediit clone website`](https://github.com/yossef-khaled/reddit-website)** - *Frontend*.  
+**[`Reddit-clone website`](https://github.com/yossef-khaled/reddit-website)** - *Frontend*.  
 Stack: (Type script, Next JS, Urql, GraphQL, GraphQL codegen, Chakra UI).
 > Reddit clone website.  
 
-**[`Rediit clone server`](https://github.com/yossef-khaled/Reddit-server)** - *Backend*.  
+**[`Reddit-clone server`](https://github.com/yossef-khaled/Reddit-server)** - *Backend*.  
 Stack: (Typescript, Express, GrahpQL, Postgres, Micro-orm (Replcaed with type-orm later), Apollo server, Data loader).
 > Reddit clone server.
 

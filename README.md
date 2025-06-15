@@ -51,8 +51,8 @@ Stack: (NodeJS : Express).
   <img alt="Top used Languages" style="margin-inline:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossef-khaled&layout=compact"/>
 </div>
 <div style="display:flex; justify-content:center;">
-  <img alt="Yousef khaled's trophies" src="https://github-profile-trophy.vercel.app/?username=yossef-khaled"/>
   <img alt="Yousef Khaled's contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=yossef-khaled&show_icons=true&bg_color=#F56E15"/>
+  <img alt="Yousef khaled's trophies" src="https://github-profile-trophy.vercel.app/?username=yossef-khaled"/>
 </div>
 
 ***

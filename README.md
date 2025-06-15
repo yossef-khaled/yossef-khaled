@@ -52,7 +52,7 @@ Stack: (NodeJS : Express).
 </div>
 <div style="display:flex; justify-content:center;">
   <img alt="Yousef Khaled's contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=yossef-khaled&show_icons=true&bg_color=#F56E15"/>
-  <img style="flex-grow: 1; width:20px;" alt="Yousef khaled's trophies" src="https://github-profile-trophy.vercel.app/?username=yossef-khaled"/>
+  <img style="flex-grow: 1; width:200px;" alt="Yousef khaled's trophies" src="https://github-profile-trophy.vercel.app/?username=yossef-khaled"/>
 </div>
 
 ***

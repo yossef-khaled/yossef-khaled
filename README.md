@@ -46,16 +46,12 @@ Stack: (NodeJS : Express).
 > A web App that uses OWM (Open Weather Map) API to post the temperature of any city you choose using its zip code or name.  
 
 ***
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yossef-khaled)](https://github.com/yossef-khaled/github-profile-trophy)
-
-
 <div style="display:flex; justify-content:center;">
   <img alt="Yousef Khaled's github stats" style="margin-inline:auto;" src="https://github-readme-stats.vercel.app/api?username=yossef-khaled&show_icons=true&bg_color=#F56E15"/>
   <img alt="Top used Languages" style="margin-inline:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossef-khaled&layout=compact"/>
 </div>
-
-![Yousef Khaled's contributions](https://github-readme-streak-stats.herokuapp.com/?user=yossef-khaled&show_icons=true&bg_color=#F56E15)
-
-![Yousef Khaled's contributions graph](https://activity-graph.herokuapp.com/graph?username=yossef-khaled&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true")
+<div>
+  <img alt="Yousef khaled's trophies" src="https://github-profile-trophy.vercel.app/?username=yossef-khaled"/>
+  <img alt="Yousef Khaled's contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=yossef-khaled&show_icons=true&bg_color=#F56E15"/>
+</div>
 ***

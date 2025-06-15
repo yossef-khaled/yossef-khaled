@@ -46,7 +46,7 @@ Stack: (NodeJS : Express).
 > A web App that uses OWM (Open Weather Map) API to post the temperature of any city you choose using its zip code or name.  
 
 ***
-<div style="display:flex; justify-content:center; border:'1px solid red';">
+<div style="display:flex; justify-content:center; border:1px solid red;">
   <img alt="Yousef Khaled's github stats" style="margin-inline:auto;" src="https://github-readme-stats.vercel.app/api?username=yossef-khaled&show_icons=true&bg_color=#F56E15"/>
   <img alt="Top used Languages" style="margin-inline:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossef-khaled&layout=compact"/>
 </div>

@@ -51,6 +51,7 @@ Stack: (NodeJS : Express).
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yossef-khaled&layout=compact)](https://github.com/yossef-khaled/github-readme-stats)
 
+<img alt="Yousef Khaled's github stats" style="margin-inline:float;" src="https://github-readme-stats.vercel.app/api?username=yossef-khaled&show_icons=true&bg_color=#F56E15"/>
 ![Yousef Khaled's github stats](https://github-readme-stats.vercel.app/api?username=yossef-khaled&show_icons=true&bg_color=#F56E15)
 ![Yousef Khaled's contributions](https://github-readme-streak-stats.herokuapp.com/?user=yossef-khaled&show_icons=true&bg_color=#F56E15)
 

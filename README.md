@@ -47,7 +47,8 @@ Stack: (NodeJS : Express).
 
 ***
 <div style="text-align: center;">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yossef-khaled&show_icons=true&theme=github_dark)  
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=yossef-khaled&show_icons=true&theme=github_dark" alt="Alt text" width="50%">
+  <!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yossef-khaled&show_icons=true&theme=github_dark)   -->
 </div>
 ***
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yossef-khaled&show_icons=true&theme=github_dark)

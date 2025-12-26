@@ -43,7 +43,11 @@ Stack: (C#).
 
 **[`Weather journal map`](https://github.com/yossef-khaled/Weather-Journal-web)** - *Backend website.*  
 Stack: (NodeJS : Express).
-> A web App that uses OWM (Open Weather Map) API to post the temperature of any city you choose using its zip code or name.  
+> A web App that uses OWM (Open Weather Map) API to post the temperature of any city you choose using its zip code or name.
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yossef-khaled&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=yossef-khaled&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yossef-khaled&layout=compact&theme=github_dark)
 
 ***
 <div style="display:flex; justify-content:center;">
